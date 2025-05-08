@@ -17,6 +17,12 @@ TeraBox Downloader is a simple and efficient tool to download files from [TeraBo
 
 1. **Clone the repository:**
 
-   ```bash
+ ```bash
    git clone https://github.com/your-username/terabox-downloader.git
+ ```
+ ```bash
    cd terabox-downloader
+```
+ ```bash
+   npm run dev
+```
